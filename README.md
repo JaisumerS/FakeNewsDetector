@@ -1,5 +1,6 @@
 # Fake News Detection Classifier
 
+## By: Jaisumer Sandhu, Alyan Qureshi, Jaival Patel
 A machine learning project that classifies political and world news articles as **Real News** or **Fake News** using natural language processing, TF-IDF vectorization, and supervised learning models.
 
 The project uses the Kaggle **Fake News Detection Dataset**, which includes separate CSV files for real and fake news articles. The model combines each article’s title and body text, converts the text into numerical features, trains multiple classifiers, and evaluates their performance using standard classification metrics.
